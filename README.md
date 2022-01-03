@@ -11,3 +11,5 @@ Git des résumés d'articles en français.
 * methylation
 * Enhancer
 * IDH1 IDH2
+
+* [Discovery and characterization of chromatin states for systematic annotation of the human genome](https://alexishucteau.github.io/PhD_bibliography/Discovery_and_characterization_of_chromatin_states_for_systematic_annotation_of_the_human_genome)

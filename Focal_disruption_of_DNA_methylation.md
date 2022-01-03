@@ -22,4 +22,38 @@ Basés sur la méthylation de ces échantillons, ils ont retrouvé des clusters 
 On remarque aussi un phénotype particulier des LAM sans mutation que ce soit IDH TET ou DNMTs mais le cluster IDH semble unique.  
 
 Pour dire si la mutation d'IDH a un effet global sur la méthylation de l'ADN ou s'il est dépendant du contexte, ils ont analysé les niveaux de méthylation dans des régions définies par des état particuliers de la chromatines chez les progéniteurs et cellules souches hématopoiétiques.  
-![Pictures/Focal_fig1.3](Pictures/Focal_fig1.3.png)
+![Pictures/Focal_fig1.3](Pictures/Focal_fig1.3.png)  
+
+Ils ont ensuite utilisé un logiciel appelé ChromHMM utilisant un modèle mutlivarié caché de Markov. Ce logiciel permet à partir de données liées à la chromatine comme des données de ChIP-seq de modifications d'histones de découvrir de nouveaux "schémas" combinatoires et spatiaux récurrents. Pour plus de détails, l'article sur ChromHMM : [Discovery and characterization of chromatin states for systematic annotation of the human genome](https://alexishucteau.github.io/PhD_bibliography/Discovery_and_characterization_of_chromatin_states_for_systematic_annotation_of_the_human_genome)  
+
+Ces analyses ont pu montré que la chromatine dans un état quiescent et réprimée (donc où la transcription n'a pas lieu) ont des niveaux de méthylation plus faible dans les cellules de LAM comparées aux cellules CD34+ alors que les régions bivalentes (enrichies en CGIs (Ilots de CpGs)) semblent hyperméthylées.  
+
+De plus, la méthylation des enhancers et des régions proches des sites de début de transcription regroupent les échantillons d'IDHm. La méthylation de ces deux sites sont significativement plus élevée dans les échantillons IDHm comparée à celle des échantillons CD34+ et LAM IDHwt.
+
+![pictures/Focal_fig1.4](Pictures/Focal_fig1.4.png)
+
+Ce résultat se retrouve aussi de manière global mais pas significativement dans les ilots de CpGs.  
+
+Pour aller plus loin, ils se sont intéressés aux régions différentiellement methylés.
+
+![DMR](Pictures/Focal_fig1.5.png)
+
+Ils ont donc comparé les différents sous types de LAM avec les cellules normales hématopoiétiques CD34+. Tous les DMRs (Régions différentiellement méthylées) dans les IDHm le sont de manières hyperméthylées comparées aux CD34+.  
+
+De plus, ces régions semblent particulièrement déméthylées dans les cellules normales CD34+.
+
+![DMR density](Pictures/Focal_fig1.6.png)
+
+### Les modifications de méthylation spécifiques aux IDHm sont distincts de l'hyperméthylation des ilots de CpGs associés à la LAM et sont influencés par le type de mutation d'IDH.
+
+Ils ont ensuite voulu définir les locis differemment methylés chez les IDHm des CD34+ qui ne le sont pas dans les autres types de LAM.
+
+![DMR_IDH1](Pictures/Focal_fig2.1.png)
+
+Ils ont donc défini 4388 et 2552 DMR spécifiques respectivement aux mutations IDH1 et IDH2. Une fois de plus, ces zones semblent avoir un niveau de méthylation inférieur à 0.3 chez les CD34+ ou cellules matures myeloides.  
+
+Ils ont aussi retrouvé un recoupement important des DMR associées aux deux mutations.
+
+![DMR_IDHm](Pictures/Focal_fig2.2.png)
+
+![DMR_E](Pictures/Focal_fig2.3.png)
