@@ -56,4 +56,116 @@ Ils ont aussi retrouvé un recoupement important des DMR associées aux deux mut
 
 ![DMR_IDHm](Pictures/Focal_fig2.2.png)
 
+Cependant, il semble y avoir une variabilité considérable entre les différents échantillons IDH1/2. Avec notamment, une méthylation légèrement plus faible chez IDH2m que chez IDH1m.
+
 ![DMR_E](Pictures/Focal_fig2.3.png)
+
+Cette différence entre IDH1 et IDH2 dans la mutation n'est pas lié à l'abondance de l'allèle muté dans les échantillons ni dans la présence de mutation telle que NPM1c. Dans l'analyse, tous les IDH1/2m sont TETwt et DNMTwt.
+
+A nouveau, les DMRs chez IDHm ne se retrouvent pas aussi présents dans les ilots de CpGs ni dans les promoters. La majorité des DMRs spécifiques à IDH ne se retrouvent que dans les genes bodies.
+
+![DMR F](Pictures/Focal_fig2.4.png)
+
+
+### Les hypermethylations dans les LAM TET2m chevauchent les hypermethylations spécifiques des IDHm mais n'explique pas l'étendue des changements de méthylation.
+
+Ils ont ensuite voulu comparer les modifications de méthylation lié aux mutations de TET2. Dans les LAM, le nombre de DMR chez les TET2m comparé au CD34+ est relativement faible comparé aux IDHm.
+
+![TET 1](Pictures/Focal_fig3.1.png)
+
+Peu de DMRs sont retrouvés chez les TET2m. Ces DMRs ne se retrouvent pas non plus dans les Ilots CpGs.
+
+Pour mieux comprendre l'intéraction entre IDHm et TET2m, ils ont analysé les niveaux de 5-hydroxyléthylcytosine (Produit de l'activité de TET2).
+
+Cet analyse a montré que les DMRs chez les TET2m étaient retrouvés chez les IDHm.
+
+![TET 2](Pictures/Focal_fig3.2.png)
+
+Mais aussi que le niveau moyen de méthylation dans les régions spécifiques de DMR des IDHm est significativement plus élevé chez les TET2m comparées aux CD34+.
+
+![TET 3](Pictures/Focal_fig3.3.png)
+![TET 4](Pictures/Focal_fig3.4.png)
+
+De plus, les niveaux de 5hmc semblent plus faibles chez les IDHm/TET2m dans les régions hyperméthylés communes aux LAMs mais encore plus dans les DMRs des IDHm.
+
+![TET 5](Pictures/Focal_fig3.5.png)
+
+### L'hyperméthylation dans les LAM IDHm nécessitent l'activité de DNMT3A.
+
+Wilson et al. ont voulu vérifier le lien entre DNMT3A et la mutation IDH en analysant des échantillons doubles mutants IDH1/2m et DNMT3Am.
+
+![DNMT 1](Pictures/Focal_fig4.1.png)
+![DNMT 2](Pictures/Focal_fig4.2.png)
+![DNMT 3](Pictures/Focal_fig4.3.png)
+
+Les niveaux de méthylation des DMRs IDHm semblent toujours plus élevés chez les IDHm/DMNT3Am mais avec une amplitude moindre.
+
+![DNMT 1](Pictures/Focal_fig4.4.png)
+![DNMT 2](Pictures/Focal_fig4.5.png)
+![DNMT 3](Pictures/Focal_fig4.6.png)
+
+En se focalisant sur les DMRs retrouvés hypométhylés chez les DNMT3Am simple mutant, on retrouve tout de même une hyperméthylation chez les double mutants.
+
+Ces résultats démontrent une activité de méthylation impliquant TETs et DNMT3A dans les même locus.
+
+### Les DMRs spécifiques aux IDHm sont enrichies en enhancers.
+
+Le groupe s'est ensuite demandé si ces régions spécifiques aux IDHm étaient localisées dans des régions particulières de la chromatine. Pour y répondre, ils ont considéré les états de la chromatines chez les CD34+ et on montré que 44% des DMRs se retrouvent dans des enhancers.
+
+![chrom 1](Pictures/Focal_fig5.1.png)
+
+Ces résultats ne se retrouvent pas dans les méthylations dans les autres sous types de LAMs.  
+
+Les enhancers peuvent être classés en trois types différents :
+
+* Active
+* Poised ou weak
+* Repressed
+
+![enhancers](Pictures/enhancers.png)
+
+Les enhancers **actifs** correspondent aux enhancers dont le gène associé est transcrit. Il est associé à une marque de modification d'histone H3K4me2 et H3K27ac.  
+Les enhancers "**poised**" sont des enhancers "en attente" et sont associés aux marques H3K4me1 et H3K27me3.  
+Les enhancers "**repressed**" sont des enhancers dont l'activité de régulation est bloquée par un état de la chromatine condensé. Ils sont associés aux marques H3K27me3.
+
+Dans les LAMs IDH, la majorité des DMRs se retrouvent dans les enhancers "**actifs**".
+
+![chrom 2](Pictures/Focal_fig5.2.png)
+
+![chrom 3](Pictures/Focal_fig5.3.png)
+
+Les méthylations chez les autres sous types de LAM semblent plus présentes dans les enhancers réprimés.
+
+![chrom 4](Pictures/Focal_fig5.4.png)
+
+Les enhancers étant des zones de fixation des facteurs de transcription, l'analyse des séquence retrouvées dans les DMRs permet d'avoir un aperçu de ces facteurs impliqués par ces changements de méthylation.
+
+SPI1, ETV2, GATA2, ELF4, RUNX1 et c-Myc ont été retrouvé à partir de leur motif de fixation.
+
+![chrom 5](Pictures/Focal_fig5.5.png)
+
+Le niveau de H3K27ac n'est cependant pas modifié par les différentes mutations IDH.
+
+![chrom 6](Pictures/Focal_fig5.6.png)
+
+### Les DMRs spécifiques des IDH dans les enhancers forment des interactions direct avec des gènes hautement exprimés dans les LAMs.
+
+Pour évaluer les conséquences des modifications de méthylation de ces enhancers, une analyse des expressions des gènes a été faite. Pour cela, ils ont utilisé des données d'intéraction 3D. Ces analyses ont montré que 26% des DMRs et 30% des DMR dans les enhancers se retrouvent dans des "loop anchor".
+
+![Gene exp 1](Pictures/Focal_fig6.1.png)
+
+Les DMRs d'IDH dans ces loop anchors sont enrichis en super-enhancers.
+
+![Gene exp 2](Pictures/Focal_fig6.2.png)
+
+![Gene exp 3](Pictures/Focal_fig6.3.png)
+
+L'analyse d'expression des gènes intéragissant avec ces DMRs a montré qu'ils sont biens plus exprimés chez les IDHm.
+
+![Gene exp 4](Pictures/Focal_fig6.4.png)
+
+Des gènes ont ensuite été retrouvé comme MYC, ETV6, DOT1L et SRSF3 sans que leur expression ne soit fortement différentes des autres sous types de LAMs.
+
+![Gene exp 5](Pictures/Focal_fig6.5.png)
+
+![Gene exp 6](Pictures/Focal_fig6.6.png)
