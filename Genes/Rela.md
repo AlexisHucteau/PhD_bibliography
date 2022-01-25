@@ -22,3 +22,5 @@ La phosphorylation du RHD se passe au niveau de la sérine 276 par une protéine
 Une phosphorylation du RHD peut aussi se produire sur la sérine 311 par la protéine kinase C.
 
 ## Phosphorylation sur le domaine TAD
+
+La sérine 529 peut être phosphorylé par une casein kinase II (CKII) après dissociation de la sous unité inhibitrice de NF-κB, IκB par [TNFα](./TNFα).

@@ -25,3 +25,23 @@ Git des résumés d'articles en français.
 
 # [Genes](https://alexishucteau.github.io/PhD_bibliography/Genes/Main)
 *Notes sur des gènes d'intérêt dans le sens purement moléculaire mais aussi contextuel dans les LAMs*
+
+
+# List of topic to investigate
+
+## Genes
+
+* RELA
+* MYC
+
+## In vitro methods
+
+* Scenith
+* Western blot
+
+## Biological context
+
+* RELA and AML
+* MYC and AML
+
+## Bioinfo context
