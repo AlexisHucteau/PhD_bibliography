@@ -4,3 +4,8 @@
 
 * [RELA](./Rela)
 * [TNFα](./TNFα)
+
+Où on retrouve NF-kB ?
+
+Voir avec
+Care 
