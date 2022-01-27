@@ -1,14 +1,21 @@
-# Rela
+# **Rela**
 
 RELA est un gène. Il encode la sous unité p65 de la protéine NF-κB ou nuclear factor kappa B.
 
 Donc RELA = NF-κB-p65
 
-# Structure
+* [Structure](#struct)
+* [Phosphorylation](#phospho)
+* [Acetylation](#acet)
+* [Rôles des cibles de p65](#role)
+* [Inhibiteurs de NF-κB](#inhib)
+* [NF-κB et LAM](#lam)
+
+# **Structure** {#struct}
 
 p65 contient un domaine REL-homology domain (RHD) qui permet la liaison avec l'ADN et un domaine C-terminal transactivation domain (TAD) qui est responsable de l'interaction avec le complexe de transcription basal incluant beaucoup de coactivateurs de transcriptions comme TBP, TFIIB et CREB-CBP.
 
-# Phosphorylation
+# **Phosphorylation** {#phospho}
 
 La phosphorylation de p65 joue un rôle dans la régulation de l'activation et la fonction de NF-κB.  
 p65 peut être phosphorylé soit au niveau du domaine RHD soit le domaine TAD.
@@ -29,13 +36,13 @@ p53 est aussi un régulateur de NF-κB via l'activation de RSK1 qui va entraîne
 
 ![p53](RELA/gr10.jpg)
 
-# Acetylation
+# **Acetylation** {#acet}
 
 Des acétylations au niveau de la lysine 221 aide à la dissociation de NF-κB et de IκBα et améliore sa fixation à l'ADN.  
 L'acétylation de la **lysine 310** est essentielle pour une activité transcriptionnelle maximale de p65 sans pour autant impacter sa fixation à l'ADN.  
 L'acétylation de la **lysine 122 et 123** sont, elles, négativement corrélées avec l'activité transcriptionnelle de p65.
 
-# Rôles des cibles de p65
+# **Rôles des cibles de p65** {#role}
 
 * Leukocyte activation & chemotaxis
 * Régulation négative du pathway de TNFIKK
@@ -43,16 +50,24 @@ L'acétylation de la **lysine 122 et 123** sont, elles, négativement corrélée
 * Processus antigénique
 * Inflammation
 
-## Système immunitaire
+### Système immunitaire
+*Immunité adaptative et réponse à une invasion de pathogène.*
+### Cancer
+*Corrélation entre sa localisation nucléaire et le développement de la tumeur.*
 
-Immunité adaptative et réponse à une invasion de pathogène.
-
-## Cancer
-
-Corrélation entre sa localisation nucléaire et le développement de la tumeur.
-
-# Inhibiteurs de NF-κB
+# **Inhibiteurs de NF-κB** {#inhib}
 
 Bortezomib --> inhibe le protéasome --> Dégradation réduite de IκBα --> inactivation de NF-κB.
 
-# NF-κB et LAM
+# **NF-κB et LAM** {#lam}
+
+[Bortezomib is significantly beneficial for de novo pediatric AML patients with low phosphorylation of the NF-κB subunit RelA](https://onlinelibrary.wiley.com/doi/10.1002/prca.202100072)  
+Les patients avec un niveau faible de NF-κB phosphorylé répondent mieux à l'inhibiteur Bortezomib sachant que celui-ci, bloque la dégradation de l'inhibiteur de NF-B.  
+*Les traitements provoquent une demande élevée en NF-κB phosphorylé ?*
+
+[Nuclear factor-kappaB is constitutively activated in primitive human acute myelogenous leukemia cells](https://link-springer-com.proxy.insermbiblio.inist.fr/article/10.1007/s00018-013-1545-4#ref-CR84)  
+*Les LSC in vitro meurent suite à des traitements inhibant NF-κB via un autre inhibiteur du protéasome : proteasome inhibitor MG-132*
+
+[The role of the novel LincRNA uc002jit.1 in NF-kB-mediated DNA damage repair in acute myeloid leukemia cells](https://www-sciencedirect-com.proxy.insermbiblio.inist.fr/science/article/pii/S0014482720302007?via%3Dihub)  
+*Un lncRNA uc002jit.1 est une des targets de RelA. Son expression déstabilise l'ARN de PARP1, diminuant les processus de réparation de l'ADN.*  
+![lncRNA](./RELA/lncRNA.jpg)
