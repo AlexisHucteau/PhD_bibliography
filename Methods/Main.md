@@ -7,3 +7,5 @@
 * [Git tools](./Git_tutorial)
 
 * [Experimantal and bioinformatic Approaches to Studying DNA methylation in Cancer](./Experimental_and_bioinfo_DNA_met)
+
+* [Western-blot (LDS/BCS) protocole](Western)

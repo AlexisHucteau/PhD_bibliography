@@ -68,6 +68,37 @@ Les patients avec un niveau faible de NF-κB phosphorylé répondent mieux à l'
 [Nuclear factor-kappaB is constitutively activated in primitive human acute myelogenous leukemia cells](https://link-springer-com.proxy.insermbiblio.inist.fr/article/10.1007/s00018-013-1545-4#ref-CR84)  
 *Les LSC in vitro meurent suite à des traitements inhibant NF-κB via un autre inhibiteur du protéasome : proteasome inhibitor MG-132*
 
+LAM --> LSC (Cellules souches leucémiques) --> caractérisation --> NF-κB
+
+CD34+ n'expriment pas NF-κB. Les cellules primaires de LAM CD34+ montrent facilement une activité de NF-κB.
+
+* NF-κB actif dans LAM CD34+ / CD38-
+* NF-κB basal dans healthy CD34+
+
+## [Constitutive NF-κB activation in AML: Causes and treatment strategies](https://www.sciencedirect.com/science/article/abs/pii/S1040842815300500?via%3Dihub)
+*Inserm bugged, downloaded using sci-hub*  
+NF-κB activé constitutivement dans les LAMs --> resistance à l'apoptose  
+Activité du protéosome élevée --> NF-κB plus actif
+
+### NF-κB signaling
+
+![Fig1](RELA/Fig1_Causes_treatment_strat.png)
+
+
+### NF-κB activity in normal hematopoiesis
+
+Une activité basal de NF-κB est nécessaire chez les HSCs au niveau du maintien du pull d'HSC mais aussi de leur différenciation en myéloïdes et lymphoïdes.
+
+### NF-κB activity in AML
+
+Activité constitutive.
+Activité la plus élevée dnas les LAM M4 et M5.
+* LAM M4 : Myélomonocytaire (Monocyte 20%<x<80%)
+* LAM M5 :
+
+### Targeted therapy of NF-κB signaling pathways
+
+
 [The role of the novel LincRNA uc002jit.1 in NF-kB-mediated DNA damage repair in acute myeloid leukemia cells](https://www-sciencedirect-com.proxy.insermbiblio.inist.fr/science/article/pii/S0014482720302007?via%3Dihub)  
 *Un lncRNA uc002jit.1 est une des targets de RelA. Son expression déstabilise l'ARN de PARP1, diminuant les processus de réparation de l'ADN.*  
 ![lncRNA](./RELA/lncRNA.jpg)
