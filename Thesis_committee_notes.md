@@ -167,6 +167,7 @@ Résultats? --> relation avec RELA Myc et la réponse --> Futur
   * Analyse Transcription
   * Prediction TF activité
   * Network analysis
+  * RNA splicing
   * Culture cell
   * WB
   * Facs
