@@ -4,6 +4,8 @@
 
 [Back to PhD Project](https://alexishucteau.github.io/PhD_project)
 
+[**Thesis committee notes**](./Thesis_committee_notes)
+
 ## [Papers](./Papers/Main)
 
 ## [Methods](./Methods/Main)
