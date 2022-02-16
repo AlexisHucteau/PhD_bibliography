@@ -225,8 +225,17 @@ Une récente étude a démontré que les patients atteint de LAM IDHm présenten
 
 ### Diapo 10
 
-Mon project est donc d'investiger sur cette résistances aux traitements aux IDHm inhibiteurs.
+Mon project est donc d'investiguer sur cette résistances aux traitements aux IDHm inhibiteurs. Quels sont les gènes dérégulés ou dont l'activité varie entre avec la réponse aux traitements et quel est le rôle de l'épigénome ?
 
 ### Diapo 11
 
-Pour commencer
+Pour répondre à ces questions, je me suis penché sur un dataset de données RNAseq et DNA methylation de patient LAM ayant une mutation sur IDH1 ou 2. Ces patients ont notemment reçu un traitement à différents inhibiteurs de ces mutations et une classification clinique a pu être faite. J'ai pu regrouper les patients selon leur réponse clinique au traitement. Les mauvais répondeurs sont les patients qui, après traitements, ont une maladie stable ou en progression. Les bons répondeurs sont ceux achevant une rémission complète.
+
+A partir de ces données et afin de pouvoir déterminé en amont quels sont ceux qui vont répondre ou pas, j'ai comparé les patients à baseline leurs données d'expression des génique mais aussi de methylation.
+
+### Diapo 12
+
+Cependant, je vais vous montrer uniquement les résultats de mes analyses de RNAseq.
+J'ai donc analyser ces données mais au lieu d'analyser uniquement l'expression génique pour savoir quels sont les gènes dont l'expression différents entre les deux groupes j'ai utilisé une méthode pouvant inférer l'activité des facteurs de transcription.
+
+### Diapo 13
