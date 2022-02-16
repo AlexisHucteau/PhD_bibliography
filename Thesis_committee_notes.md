@@ -179,3 +179,54 @@ Résultats? --> relation avec RELA Myc et la réponse --> Futur
   * JOBIM 2021
   * Cancer cell symposium
 * 58 - Apprentis chercheurs
+
+## IV - Text
+
+### Diapo 1
+
+Hello! So I'll present my project and what I've done during this first year. This thesis is possible thanks to the INSERM, the Laboratoire d'excellence Toulouse Cancer Labex Toucan and the University of Toulouse Paul Sabatier. I'm also part of the CARe program but it's pretty recent.
+
+### Diapo 2
+
+To explain my project, I will present the cancer I working on with its specificities and what is the problematique I'm trying to answer.
+I'll show you my in silico analyses and explain how I proceed. What I have found.
+Then, I'll present my in vitro analyses that are a kind of validation of the previous results.
+Finally, I'll talk about the perspectives in term of in silico and in vitro analysis and do a recap of what I've learn and what I've done as a PhD student in term of communications.
+
+### Diapo 3
+
+So the context of my PhD. The acute myeloid leukemia and the gene Isocitrate dehydrogenase.
+
+### Diapo 4
+
+The acute myeloid leukemia is a blood cancer that takes place during the haematopoiesis. The normal haematopoiesis, is the process that generates all the mature blood cells circulating in the blood from a single stem cell that resides in the bone marrow.
+It's in this context that occurs different cancer depending the lineage impacted like B-ALL, T-ALL and AML.
+
+### Diapo 5
+
+Clinically, AML is associated with a poor outcome and declines with age. That disease lacked of novel therapies depuis une vingtaine d'années, surtout pour les patients qui n'ont pas les prérecquis pour recevoir une chimiothérapie intensive. Une combinaison a été récemment acceptée pour traiter ces patients mais il y a un manque cruel de traitement pour passer outre les résistance et les rechutes.
+
+### Diapo 6
+
+Des analyses génomiques et cytogéniques ont permis d'identifier des mutations qui induisent ces résistances ou des rechutes. Nous avons la mutation FLT3-ITD mais aussi les mutations des gènes IDH1 et IDH2. Mon projet se focalise sur ces mutations d'IDH.
+
+### Diapo 7
+
+Pour comprendre pourquoi ces mutations sont de mauvais prognostique, il faut d'abord comprendre les fonctions de ces deux protéines.
+IDH1 et IDH2 sont des gènes métaboliques qui convertissent l'isocitrate en alpha-ketoglutarate. Cette réaction est importante car faisant partie de cycle de Krebs et productrice de NADPH.
+
+### Diapo 8
+
+ Mutée, la protéine va réutiliser cet alpha-kétoglutarate et ce NADPH pour le transformer en D-2-hydroxyglutarate. Cette production anormale de cette molécule que l'on appellera 2HG, entraine des reprogrammations transcriptionnelles, épigénétiques, des biais des différenciation ainsi qu'une susceptibilité des cellules cancéreuses aux inhibiteurs mitochondriaux.
+
+### Diapo 9
+
+Une récente étude a démontré que les patients atteint de LAM IDHm présentent un métabolisme oxydatif mitochondrial exacerbé par une induction du facteur de transcription CEBPa via des changement de méthylation d'histones. Des traitements contre ces mutations ont été mises au point et acceptée, cependant, il reste des résistances à ces traitememtns et comme on peut le voir, malgré une réduction du 2HG, on retrouve ce phénotype d'hyper activité mitochondriale.
+
+### Diapo 10
+
+Mon project est donc d'investiger sur cette résistances aux traitements aux IDHm inhibiteurs.
+
+### Diapo 11
+
+Pour commencer
