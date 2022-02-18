@@ -1,0 +1,11 @@
+Lei Zhang, Jing Li, Hui Xu, Xianyu Shao, Li Fu, Ye Hou, Caiqing Hao, Wenyan Li, Kanak Joshi, Wei Wei, Yan Xu, Feng Zhang, Shaojun Dai, Peter Breslin, Jiwang Zhang, Jun Zhang,
+Myc-Miz1 signaling promotes self-renewal of leukemia stem cells by repressing Cebpα and Cebpδ,
+Blood,
+Volume 135, Issue 14,
+2020,
+Pages 1133-1145,
+ISSN 0006-4971,
+https://doi.org/10.1182/blood.2019001863.
+(https://www.sciencedirect.com/science/article/pii/S000649712062136X)
+Abstract: Abstract
+c-Myc (Myc hereafter) is found to be deregulated and/or amplified in most acute myeloid leukemias (AMLs). Almost all AML cells are dependent upon Myc for their proliferation and survival. Thus, Myc has been proposed as a critical anti-AML target. Myc has Max-mediated transactivational and Myc-interacting zinc finger protein 1 (Miz1)-mediated transrepressional activities. The role of Myc-Max–mediated transactivation in the pathogenesis of AML has been well studied; however, the role of Myc-Miz1–mediated transrepression in AML is still somewhat obscure. Myc protein harboring a V394D mutation (MycV394D) is a mutant form of Myc that lacks transrepressional activity due to a defect in its ability to interact with Miz1. We found that, compared with Myc, the oncogenic function of MycV394D is significantly impaired. The AML/myeloproliferative disorder that develops in mice receiving MycV394D-transduced hematopoietic stem/progenitor cells (HSPCs) is significantly delayed compared with mice receiving Myc-transduced HSPCs. Using a murine MLL-AF9 AML model, we found that AML cells expressing MycV394D (intrinsic Myc deleted) are partially differentiated and show reductions in both colony-forming ability in vitro and leukemogenic capacity in vivo. The reduced frequency of leukemia stem cells (LSCs) among MycV394D-AML cells and their reduced leukemogenic capacity during serial transplantation suggest that Myc-Miz1 interaction is required for the self-renewal of LSCs. In addition, we found that MycV394D-AML cells are more sensitive to chemotherapy than are Myc-AML cells. Mechanistically, we found that Myc represses Miz1-mediated expression of CCAAT/enhancer-binding protein α (Cebpα) and Cebpδ, thus playing an important role in the pathogenesis of AML by maintaining the undifferentiated state and self-renewal capacity of LSCs.
