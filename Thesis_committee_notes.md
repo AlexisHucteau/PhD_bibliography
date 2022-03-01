@@ -378,13 +378,81 @@ So we saw the line of the project we already created. Starting from In silico an
 
 ### Diapo 46
 
-In fact, the early approach I made was about DNA methylation and 3D chromatin network analysis.
+In fact, the first approach I made was about DNA methylation and 3D chromatin network analysis.
+
+### Diapo 47
+
+In fact, the alpha ketoglutarate is used by dioxygenases enzymes like the TETs et Jumonji demethylase to demethylate DNA and histones. The mutation consumes this aKG but is also a competitive inhibitor of the enzymes. This results to a DNA and histone hypermethylations phenotype.
+
+I focused my analysis on DNA methylation.
+
+### Diapo 48
+
+I don't know how much I need to present DNA methylation but in a few words, it has an impact on gene expression so it's a interesting regulatory element that is perturbed and need to be analyzed.
+
+### Diapo 49
+
+The methylation occurs on dinucleotyde CpGs by the addition of a methyl group.
+
+### Diapo 50
+
+Determinating the CpGs methylated is possible thanks to the bisulfite conversion that converts unmethylated Cytosine into Uracile then into thymine. By hybridation then sequencing it is possible to determine the methylation of a CpGs.
+
+### Diapo 51
+
+In term of data, each CpGs will have a Betavalue going from 0 to 1 and the density of their values looks like a bimodal distribution with two peaks near 0 and 1. The BMIQ normalization is a type of normalization for bimodal distribution I made using an R package called ChAMP for Chip Analysis Methylation Pipeline.
+
+### Diapo 52
+
+They are different analysis that can be made to investigate the methylation of the DNA, one is a single position analysis to determine Differentially Methylated Positions as you can see here and a more spread analysis called Differentially methylated Regions. DMR are statistically more robust in term of relevance and it's often what we are looking at.
+
+### Diapo 53
+
+In a recent paper, Elisabeth Wilson and al analysed IDHm specific DMR in AML context. The majority of DMR found were localized on enhancer because the majority of the locus of the DNA are enhancer-like. What is very interesting is the enrichment of Genic enhancer associated region, the 6_EnhG ChrommHMM State and the strong transcription associated state.
+
+The majority of DNA methylation is focalised on promoter methylation but it's clear that methylation is very important in distal elements like enhancer and is responsible of transcription alterations.
+
+### Diapo 54
+
+To investigate this distal regulations it's important to have in mind the 3D chromatin conformation. Because distal regulation is possible thanks to the compaction of the chromatin and the connections that can be made. Here you can see the schema of the chromatin with those connections.
+
+### Diapo 55
+
+To have access to this specific conformation, the Bluepint epigenome project made some Promoter Capture Hi-C that permitted to connect promoters to distal regions and my other team created a network based on that data to manipulate this knowledge.
+
+### Diapo 56
+
+So the idea was to find chromatin fragments that have differential methylated regions and by using their coordinates, connect them through a network to promoters. And by looking at the expression of their respective genes, link the expression to the methylation.
+
+### Diapo 57
+
+One of the problem I'm currently facing is the data I'm using. The problem is well explain in this paper where this plot  representing the coverage of EPIC data for distal elements. It shows that the coverage of all the DNAse proximal but more particularly distal regions by the EPIC array is very low. And for the regulatory regions covered, most are represented by just one probe on the array. So it might be not very accurate to capture the methylation variation across the extent of a regulatory region. One solution is Whole Genome Bisulfite Sequencing WGBS but it's very expensive.
+
+### Diapo 58
+
+But we have the data made from the previous paper of Elisabeth Wilson that are WGBS data of IDHm AML patients. There are no context of IDHm inhibitor but it can help to analyze the EPIC data in the IDHm inhibitor context. The data analysis is still in progress but is promising as they picked some TFs like Myc that are linked to methylation.
+
+So the methylation part is a very promising project that I hope will connect the different results or somehow made us go in another direction.
+
+### Diapo 59
+
+Apart from my project, I also learnt to analyze RNA splicing
+
+### Diapo 60
+
+Quickly, alternative splicing event are focus in a study of our lab and from RNAseq data and by computational program, it's possible to capture those events. I'll not go further as the analysis are also in progress.
+
+### Diapo 61
+
+So we are going to the end of the presentation and I'll make a conclusion of all of that, talk about the perspectives and finally present what I actually achieved this first year.
+
+### Diapo 62
 
 To conclude this presentation, we have some study track on specific genes but some novel approach need to be added. We already identified potential genes and potential TFs but other data need to be done and mechanistic need to be highlighted.
 
-### Diapo 36
+### Diapo 63
 
-In perspectives and in term of computational analysis. I also learnt to analyse DNA methylation and they will be addded and combined to the previous results. Whole Genome Bisulfite Sequencing data are in progress but can add some precision of the previous DNA methylation analysis I have done.
+In perspectives and in term of computational analysis. We saw that DNA methylation will be addded and combined to the previous results. Whole Genome Bisulfite Sequencing data are in progress but can add some precision of the previous DNA methylation analysis I have done.
 
 In a way to explain the resistance, models could be made from the key genes and TF I found.
 Other type of modifications are involved in AML and splicing event is one of them. Of course, the analysis of other dataset where the IDHm inhibitor is involved may validate my previous result.
@@ -393,16 +461,28 @@ In vitro, there is a need of replica but looking at other cell lines may be inte
 
 If the in vitro and in silico results are confirmed, an in vivo experiment on mice can be done to be closer to patient environment.
 
-### Diapo 37
+### Diapo 64
 
 Finally, to close this presentation, I'll do a recap of the achievement done during this first year.
-In term of publications, I was involved in 2 papers already published where I did some DNA methylation and gene expression analysis.
-And a third paper that will be resubmitted soon where I made some 3D chromatin network analysis that permitted to combined expression data to methylation and enhance the signature made.
+In term of publications, I was involved in 3 papers.
 
-### Diapo 38
+### Diapo 65
 
-I followed a training from the doctoral school about advanced biostatistics that will be usefull in the future.
-I also participated in conferences through posters and flash talks. I managed a project called Apprentis chercheurs during almost 6 month.
+The first paper, I did some transcriptomic and methylome analysis on publicly available cohorts
+
+### Diapo 66
+
+For the second one, I built different signatures that have shown to be enriched in our AML IDHm context.
+
+### Diapo 67
+
+And a third paper that will be resubmitted soon where I made some 3D chromatin network analysis that permitted to combined expression data to methylation and enhance the signature made for deconvolution. So to give more details, we had a signatures composed of methylated cpgs and a signature of genes. Using 3D chromatin conformation, I found 48 genes that were not in the gene signature but that have cpgs from the cpgs signature in their promoter and that are connected to chromatin fragment having themselves cpgs from the cpgs signature. This enhanced the signature in term of deconvolution .
+
+### Diapo 68
+
+I also followed a training from the doctoral school about advanced biostatistics that will be usefull in the future.
+I also participated in conferences through posters and flash talks.
+I managed a project called Apprentis chercheurs during almost 6 month.
 And finally, here is the list of skills I acquired during this first year.
 
 Of course I thank the Inserm and the CRCT where I do all the work. The Labex Toucan and the université Paul Sabatier. And I course I thank the two teams I am part of, the team of Vera Pancaldi, the NetB(IO)² and the time of Jean Emmanuel Sarry, the METAML team.
