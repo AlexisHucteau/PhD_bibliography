@@ -6,6 +6,8 @@
 
 [**Thesis committee notes**](./Thesis_committee_notes)
 
+## [Thesis](./Thesis_Scripts/)
+
 ## [Papers](./Papers/Main)
 
 ## [Methods](./Methods/Main)
@@ -13,6 +15,9 @@
 
 ## [Genes](./Genes/Main)
 *Notes sur des gènes d'intérêt dans le sens purement moléculaire mais aussi contextuel dans les LAMs*
+
+## [Thesis](./Thesis/Main)
+
 
 ## *List of topic to investigate*
 
