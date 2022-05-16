@@ -44,10 +44,6 @@ Les facteurs pronostiques sont divisés en deux groupes : ceux liés aux patient
 
 Le traitement standard des LAM est le même depuis des dizaines d'années et consiste à administrer une lourde chimiothérapie afin d'induire une rémission complète (RC) de la pathologie dans un premier temps et aussi d'éviter les rechutes à plus long terme. La première phase du traitement est appelée phase d'induction avec 3 jours d'anthracycline puis 7 jours de cytarabine. Le taux de RC est d'environ 60 à 80% chez les patients de moins de 60 ans et de seulement 40 à 60% pour les patients plus âgés. Cette chimiothérapie intensive est souvent proposée aux patients à pronostique favorable ou intermédiaire et présentant un faible risque de mortalité lié au traitement. Suite à une RC, une phase de consolidation est établi afin d'éradiquer toute maladie résiduelle
 
-
-
-
-
 ### mIDH
 
 
