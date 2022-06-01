@@ -137,3 +137,39 @@ D'autres semblent liés à des modes d'évolution non-génétiques.
 ![Figure 3i](./John_D_pictures/fig3i.png)
 
 ### L'axe Primitive versus Mature capture la sensitivité aux traitements ex vivo.
+
+Ils se sont ensuite demandé si les échantillons de LAM ayant des compositions cellulaires différentes variaient dans leur vulnérabilité aux nouvelles thérapies expérimentales. Pour cela, ils ont utilisé des données d'ex vivo drug sensitivité provenant de 2 datasets.
+
+![Figure 4a](./John_D_pictures/fig4a.png)  
+
+Les réponses semblent suivre l'axe de la composante 2 PC2 et l'axe Primitive-Mature.
+
+![Figure 4b](./John_D_pictures/fig4b.png)  
+
+Pour vérifier cette hypothèse, ils ont clusterisé les patients selon leur profile de réponse au traitement et en comparant leur expression génique, ils ont montré un enrichissement pour les programmes primitif de HSC pour le premier cluster et pour des programmes matures myéloides pour le second.  
+
+Cela confirme l'importance de l'axe Mature-Primitive dans la réponse aux traitements.
+
+### Le score de l'expression génique basée sur la hiérarchie prédit la réponse aux traitements
+
+Ils ont ensuite modifié le score LSC17 composé de 17 gènes en utilisant un algorithme de réduction de variable appelé LASSO et en y incorporant l'axe PC2 pour définir un score de classification de lignée à partir de 7 (applé LinClass-7).
+
+![Figure 4c](./John_D_pictures/fig4c.png)  
+
+Ce score semble corréler avec la réponse à différents traitements.
+
+![Figure 4d](./John_D_pictures/fig4d.png)  
+
+Le score LCS17 n'était pas capable de cette corrélation.
+
+![Figure 4e](./John_D_pictures/fig4e.png)  
+
+Afin de tester cette hypothèse, ils ont repris des données d'un essai clinique pour le traitement à petite dose de gemtuzumab ozogamicin et ont associé à chaque patient un score LinClass-7. Dans leur étude, le traitement GO avait un effet sur l'event-free survival et sur le relapse free survival mais pas sur la survie globale.  
+
+Le score LinClass-7 sépare bien les bons des mauvais répondeurs et le traitement GO sur les patients avec un LinClass-7 high ne semble pas avoir d'effet ni sur le EFS ni sur le RFS. Cependant, les patients LinClass-7 low, eux, ont une EFS et RFS plus élevée suite à un traitement GO.
+
+![Figure 4f](./John_D_pictures/fig4f.png)  
+
+La cible de GO ne semble pas être liée, ni au score LinClass-7 ni à leur composition hiérarchique.
+
+![Figure 4gh](./John_D_pictures/fig4gh.png)  
