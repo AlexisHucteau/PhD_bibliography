@@ -173,3 +173,51 @@ Le score LinClass-7 sépare bien les bons des mauvais répondeurs et le traiteme
 La cible de GO ne semble pas être liée, ni au score LinClass-7 ni à leur composition hiérarchique.
 
 ![Figure 4gh](./John_D_pictures/fig4gh.png)  
+
+Ces résultats montrent que le score LinClass-7 peut prédire de l'efficacité de traitement comme le GO.
+
+### Un cadre hiérarchique pour la LAM afin de guider les études précliniques sur les médicaments
+
+Pour comprendre comment les traitement médicamenteux affectent la composition cellulaire, ils ont analysé des données RNAseq avant et après traitement.
+
+![Figure 5ab](./John_D_pictures/fig5ab.png)  
+
+Ils ont projeté ces rnaseq en UMAP celon les changements qu'ont entraîné le traitement.
+
+![Figure 5cd](./John_D_pictures/fig5cd.png)  
+
+Par exemple, ATRA induit une differentiation prédominante des GMP-like. Le DHODH lui réduit la population de LSPC-quiescent.
+
+![Figure 5e](./John_D_pictures/fig5e.png)  
+
+Le traitement Selinexor, ciblant la protéine de transport nucléaire XPO1 semble cibler préférentiellement les LSPC-like cells et cette population semble elle même la cible du traitement.
+
+![Figure 5fghij](./John_D_pictures/fig5fghij.png)  
+
+Ils se sont ensuite focus sur deux traitements, une JAK2 inhibiteur et un agent immunomodulateur CC-90009 qui induit la dégradation de GSPT1. Ils ont comparé les bon répondeur aux répondeurs partiels et mauvais répondeurs.
+
+![Figure 6ab](./John_D_pictures/fig6ab.png)   
+
+JAK2 semble plus expirmé chez les Mono-like et cDC-like et le traitement semble affecter de manière plus importante ces mêmes types cellulaire.
+
+![Figure 6cd](./John_D_pictures/fig6cd.png)
+
+La composition hiérarchique mature semble montrer une meilleure réponse au traitement.
+
+![Figure 6e](./John_D_pictures/fig6e.png)
+
+Les patients présentant une proportion importante de blastes matures répondent mieux.
+
+ Pour le traitement contre la GSPT1, elle est exprimée plus fortement dans les LSPC-cycle et GMP-like. Ces dernières sont aussi enrichies dans les bons répondeurs et les LSPC-quiescent enrichies dans les mauvais répondeurs.
+
+ ![Figure 6f](./John_D_pictures/fig6f.png)
+
+Au niveau des sous-groupes, les Intermédiaires, GMP-like et Matures semblent mieux répondre et les Primitives ont un taux de réponse faible.
+
+![Figure 6h](./John_D_pictures/fig6h.png)
+
+
+![Figure 6i](./John_D_pictures/fig6i.png)
+
+
+![Figure 6j](./John_D_pictures/fig6j.png)
