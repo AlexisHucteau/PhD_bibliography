@@ -210,7 +210,7 @@ Les patients présentant une proportion importante de blastes matures répondent
 
  Pour le traitement contre la GSPT1, elle est exprimée plus fortement dans les LSPC-cycle et GMP-like. Ces dernières sont aussi enrichies dans les bons répondeurs et les LSPC-quiescent enrichies dans les mauvais répondeurs.
 
- ![Figure 6f](./John_D_pictures/fig6f.png)
+ ![Figure 6fg](./John_D_pictures/fig6fg.png)
 
 Au niveau des sous-groupes, les Intermédiaires, GMP-like et Matures semblent mieux répondre et les Primitives ont un taux de réponse faible.
 
